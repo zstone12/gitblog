@@ -1,1 +1,4 @@
-Use issue to record my weekly review.
+# Gitblog
+Using issues to record my weekly reviews covering Work, Invest, Life, and Mindset.
+
+
